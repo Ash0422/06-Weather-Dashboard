@@ -1,5 +1,10 @@
 # 06-Weather Dashboard App
-Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+
+```
+An application that provides weather information for any city, 
+including details such as temperature, humidity, wind speed, and UV index, 
+using the OpenWeather API.
+```
 
 <h2>The challange </h2>
 

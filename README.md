@@ -33,8 +33,8 @@ THEN I am again presented with current and future conditions for that city
 ## Mock-Up:
 The following image shows the web application's appearance and functionality:
 
-![screenshot of the weather dashboard application ](./assets/images/screenshot1.png)
-![screenshot of the weather dashboard application ](./assets/images/screenshot2.png)
+![screenshot of the weather dashboard application ](../assets/images/screenshot1.png)
+![screenshot of the weather dashboard application ](../assets/images/screenshot2.png)
 
 
 ## The Resources I used:
@@ -53,4 +53,4 @@ GitHub Repo:
 - https://github.com/Ash0422/06-Weather-Dashboard
 
  deployed application: 
-- https://ash0422.github.io/05-Work-Day-Scheduler/
+- https://ash0422.github.io/06-Weather-Dashboard/

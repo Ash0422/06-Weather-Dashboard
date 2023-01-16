@@ -33,8 +33,8 @@ THEN I am again presented with current and future conditions for that city
 ## Mock-Up:
 The following image shows the web application's appearance and functionality:
 
-![screenshot of the weather dashboard application ](../assets/images/screenshot1.png)
-![screenshot of the weather dashboard application ](../assets/images/screenshot2.png)
+![screenshot of the weather dashboard application ](./assets/Images/screenshot1.png)
+![screenshot of the weather dashboard application ](./assets/Images/screenshot2.png)
 
 
 ## The Resources I used:

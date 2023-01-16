@@ -47,7 +47,7 @@ The following image shows the web application's appearance and functionality:
 - https://openweathermap.org/
 - https://favicon.io/favicon-converter/
 - https://www.w3schools.com/
-- https://www.youtube.com/feed/history
+- https://www.youtube.com/watch?v=PXSohUZuNWg
 
 ## Links to the challange
 <br>
